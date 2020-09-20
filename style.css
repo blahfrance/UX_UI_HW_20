@@ -1,0 +1,31 @@
+.card-header {text-align: center;
+    background-color: #F8F1E1;}
+
+
+.vertical_dotted_line {
+    border:none;
+    border-left:5px dashed black;
+    color:black;
+    height:200px;
+    width:50%;
+    position: absolute;
+    align:center;
+    z-index: -1;
+    left:50%;
+}
+
+.title-slide {
+    text-align: center;
+}
+
+.card-body {background-color:#F8F1E1;
+    text-align: center;
+}
+
+
+.header1 {}
+
+p {margin-left: 300px;
+    margin-right:300px}
+
+#abtesting {background-color: #F8F1E1;}
